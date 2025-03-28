@@ -62,5 +62,5 @@ The data model follows a star schema consisting of:
             
             olist_order_payments_dataset – Payment details
 
-ERD Summary:
-The ERD visualizes the relationships between tables, with key fields such as order_id, customer_id, and product_id linking the datasets to facilitate comprehensive analysis and visualization.
+
+
