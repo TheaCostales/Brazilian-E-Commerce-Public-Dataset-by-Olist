@@ -61,6 +61,37 @@ The data model follows a star schema consisting of:
             olist_geolocation_dataset – Geolocation data
             
             olist_order_payments_dataset – Payment details
+2.3 Data Visualization
+Dashboards were developed in Power BI to present insights in three key areas:
+1. Customer Behavior: Analyzing customer patterns, satisfaction factors, and order trends.
+2. Sales Performance: Evaluating revenue, profitability by product categories, and top-performing regions.
+3. Logistical Efficiency: Assessing delivery performance, on-time and late deliveries, and their impact on satisfaction.
+
+4. Recommendations
+Strategic recommendations based on your analysis
+Customer Behavior 
+Order peaks in September and December highlight opportunities for seasonal promotions, while urban centers like Sao Paulo and Rio de Janeiro are key markets for customer engagement. Late afternoons and weekends are high-activity periods, making them ideal for targeted promotions. High review scores (4.09) indicate positive customer experiences, but addressing the 14.69% bad ratings and reducing cancellations in high-risk categories can further improve satisfaction.
+Sales Performance 
+Sales are highest in July and September, driven by top categories like Health & Beauty, Watches & Gifts, and Bed & Bath, while low-performing categories such as CDs/DVDs/Multimedia and Fashion/Clothing show declining trends. Targeted promotions in low-sales months and a focus on high-margin categories can stabilize and grow revenue.
+Logistical Efficiency 
+With 97.02% of deliveries successful, delivery performance is strong, but long delivery times (12.5 days) and weekend delays impact customer satisfaction. Improvements in weekend processing, faster fulfillment, and predictive demand management can enhance delivery efficiency and overall customer experience.
+
+Areas for Further Study
+Churn Analysis: Identify factors contributing to customer churn.
+
+
+Delivery Route Optimization: Use geolocation data to optimize delivery routes.
+
+
+Cross-Sell/Up-Sell Strategy: Analyze customer purchase patterns to recommend related products.
+
+4. Conclusion
+
+The analysis highlights strong customer engagement in key urban regions and seasonal purchase peaks, providing opportunities for targeted promotions and enhanced customer satisfaction. Addressing negative reviews and minimizing cancellations in high-risk categories can further strengthen customer loyalty. Sales performance is driven by high-margin categories, with opportunities to boost revenue through strategic promotions during low-sales periods. Despite a high delivery success rate, improving delivery speed and addressing weekend delays can enhance logistical efficiency and overall customer experience. Implementing these recommendations can optimize revenue growth, improve customer satisfaction, and ensure sustained operational efficiency.
+
+
+
+
 
 
 
